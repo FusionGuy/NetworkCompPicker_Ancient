@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkComputers", "NetworkComputers.csproj", "{D53DCA58-1B8B-4FCF-8C46-AF50D7D2D48C}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComputerCollectionTest", "..\ComputerCollectionTest\ComputerCollectionTest.csproj", "{FE5E65A8-D329-4BC0-9A6A-E5CEDD2E1202}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{D53DCA58-1B8B-4FCF-8C46-AF50D7D2D48C}.Debug.ActiveCfg = Debug|.NET
+		{D53DCA58-1B8B-4FCF-8C46-AF50D7D2D48C}.Debug.Build.0 = Debug|.NET
+		{D53DCA58-1B8B-4FCF-8C46-AF50D7D2D48C}.Release.ActiveCfg = Release|.NET
+		{D53DCA58-1B8B-4FCF-8C46-AF50D7D2D48C}.Release.Build.0 = Release|.NET
+		{FE5E65A8-D329-4BC0-9A6A-E5CEDD2E1202}.Debug.ActiveCfg = Debug|.NET
+		{FE5E65A8-D329-4BC0-9A6A-E5CEDD2E1202}.Debug.Build.0 = Debug|.NET
+		{FE5E65A8-D329-4BC0-9A6A-E5CEDD2E1202}.Release.ActiveCfg = Release|.NET
+		{FE5E65A8-D329-4BC0-9A6A-E5CEDD2E1202}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
